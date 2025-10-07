@@ -2,11 +2,10 @@
 ### I'm Mohamed Abdeltawab!
 
 ##  About Me
-I'm a **Web Developer** with a focus on backend technologies, and a **3rd year Computer Science student**. My journey is all about continuous learning, building cool projects, and exploring the world of code.
+I'm a **Web Developer** with a focus on backend technologies, and a 3rd year Computer Science student. My journey is all about learning, building projects, and exploring the world of code.
 
 -  Currently learning **React** and **Node.js / Express**
 -  Interested in diving into the **.NET ecosystem**
--  Interested in data science as well
 -  Interested in DevOps
   
 ## A Bit More About Me
