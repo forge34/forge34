@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Abdeltawab
 
-Backend Developer based in Cairo, Egypt, focusing on building scalable, concurrent, and high-performance server-side systems.
+Backend Developer based in Cairo, Egypt, focusing on building scalable, concurrent, and high-performance systems.
 
 ---
 
