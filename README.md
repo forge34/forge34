@@ -1,28 +1,30 @@
-# Hello There
-### I'm Mohamed Abdeltawab!
+# Hi, I'm Mohamed Abdeltawab
 
-##  About Me
-Backend-focused Web Developer and 3rd-year Computer Science student who learns by building real systems and contributing to open source.
+Backend Developer based in Cairo, Egypt, focusing on building scalable, concurrent, and high-performance server-side systems.
 
-- Currently learning Go (Golang) for backend services and tooling
-- Experienced with TypeScript, Express, and React
-- Strong foundation in web development and backend concepts
-- Interested in the .NET ecosystem and DevOps fundamentals
+---
 
-### Collaboration
-- 👯 I’m looking to collaborate on useful developer tools and open-source web applications
-  
-<!--
-**forge34/forge34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/express-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** TypeScript, JavaScript, SQL, Go
+- **Backend:** Node.js, NestJS, Express.js, REST APIs, WebSockets
+- **Data & Systems:** PostgreSQL, Redis, Prisma ORM, BullMQ
+- **Tooling:** Docker, Git, Jest, SuperTest
+
+---
+
+### 📫 Connect with Me
+
+- **Email:** mohamedabdeltawab338@gmail.com
+- **LinkedIn:** [linkedin.com/in/moh-abdeltawab](https://linkedin.com/in/moh-abdeltawab)
